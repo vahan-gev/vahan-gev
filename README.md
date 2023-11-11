@@ -24,7 +24,7 @@
   
    [![Linkedin Badge](https://img.shields.io/badge/-vahangevorgyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vahangevorgyan/)](https://www.linkedin.com/in/vahangevorgyan/) 
    [![Gmail Badge](https://img.shields.io/badge/-vahangevorgyan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vahangevorgyan0212@gmail.com)](mailto:vahangevgevorgyan@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@vahan_gev-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/vahan_gev/)](https://instagram.com/vahan_gev) 
+   [![Instagram Badge](https://img.shields.io/badge/-@v_gevorgian-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_gevorgian/)](https://instagram.com/v_gevorgian) 
    [![Twitter: @vahan_gev](https://img.shields.io/twitter/follow/vahan_gev?style=social)](https://twitter.com/vahan_gev)
 </p>
 
