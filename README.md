@@ -1,6 +1,6 @@
 # Hello, I'm Vahan Gevorgyan 👋
 
- I'm a Web Developer and Computer Science student at Loyola Marymount University. I have a passion for programming and love to learn new technologies and languages. 
+ I'm a Full-Stack Web Developer. I have a passion for programming and love to learn new technologies and languages. 
  
 ## 💻 Technical Skills
 
@@ -21,8 +21,7 @@
 
 <p>
   <i>Where to find me:</i>
-  
-   [![Linkedin Badge](https://img.shields.io/badge/-vahangevorgyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vahangevorgyan/)](https://www.linkedin.com/in/vahangevorgyan/) 
+ 
    [![Gmail Badge](https://img.shields.io/badge/-vahangevorgyan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vahangevorgyan0212@gmail.com)](mailto:vahangevgevorgyan@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@_vahangev_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_vahangev_/)](https://instagram.com/_vahangev_) 
    [![Twitter: @vahan_gev](https://img.shields.io/twitter/follow/vahan_gev?style=social)](https://twitter.com/vahan_gev)
