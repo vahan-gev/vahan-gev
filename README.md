@@ -9,7 +9,7 @@
     <br> <b>Recent Work:</b>
     <br>
     <a href="https://github.com/vahan-gev/emeraldengine">Emerald</a> - 2D Game Engine <br>
-    <a href="https://github.com/vahan-gev/projectclubs">Clubs</a> - Social Network for LMU students <br>
+    <a href="https://diamant-demo.vercel.app/">Diamant</a> - Component Library for Web Apps <br>
     <a href="https://github.com/vahan-gev/nool">Nool</a> - Custom Programming Language <br>
   </samp>
 </p>
